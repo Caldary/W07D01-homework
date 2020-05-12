@@ -1,0 +1,9 @@
+li button {
+    margin: 20px 0;
+    color: blue;
+}
+
+li.isDone {
+    border: 2px solid greenyellow;
+    color: green;
+}
